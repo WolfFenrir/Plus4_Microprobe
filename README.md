@@ -10,4 +10,4 @@
 
 Порядок доработок:
 1) Припаиваем провода (либо разъемы) в Pi Nano как на изображениях ниже (черные провода - в любом порядке, это общая GND)
-   ![IMG_4106](https://github.com/user-attachments/assets/240b77a1-c17f-4b56-85a6-da891cefff7f) ![IMG_4105](https://github.com/user-attachments/assets/e667b008-09d4-4b6f-ae91-438100bf8b51)
+ 
